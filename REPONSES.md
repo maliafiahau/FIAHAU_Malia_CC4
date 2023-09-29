@@ -2,7 +2,8 @@
 
 ## Sur <http://localhost:8080/api-docs>, lister les routes qui sont **déjà** implémentées et celles qui ne le sont pas encore
 
-**TODO** réponse.
+Les routes déjà implémentées sont :
+
 
 ## Donner la commande `httpie` correspondant à la commande `curl` [donnée par la doc](http://localhost:8080/api-docs/#/shortener/post_) pour la route `POST`
 
